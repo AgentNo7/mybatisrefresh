@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.zeroturnaround:jr-javassist:3.20.0-GA-java4-zt">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/zeroturnaround/jr-javassist/3.20.0-GA-java4-zt/jr-javassist-3.20.0-GA-java4-zt.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/zeroturnaround/jr-javassist/3.20.0-GA-java4-zt/jr-javassist-3.20.0-GA-java4-zt-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/zeroturnaround/jr-javassist/3.20.0-GA-java4-zt/jr-javassist-3.20.0-GA-java4-zt-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

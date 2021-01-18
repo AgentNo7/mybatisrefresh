@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="mybatisrefresh:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mybatisrefresh_jar</output-path>
+    <root id="root">
+      <element id="archive" name="mybatisrefresh.jar">
+        <element id="module-output" name="mybatisrefresh" />
+      </element>
+    </root>
+  </artifact>
+</component>
